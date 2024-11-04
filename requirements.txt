@@ -4,9 +4,11 @@ dj-database-url
 Django
 django-crispy-forms
 django-environ
+gunicorn
 MouseInfo
 numpy
 opencv-contrib-python
+packaging
 pillow
 psycopg2
 psycopg2-binary
